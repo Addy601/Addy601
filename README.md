@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fcoding-skills%2F&psig=AOvVaw32cbhczY5aFcWXaVystbns&ust=1711184645275000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDMs9zBh4UDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="gittt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy601&label=Profile%20views&color=0e75b6&style=flat" alt="addy601" /> </p>
 
