@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
 <h3 align="center">A passionate computer engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0_EtfXI5DBqkhxkSGCZzTZ&ust=1711184365134000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODNldTAh4UDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0_EtfXI5DBqkhxkSGCZzTZ&ust=1711184365134000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODNldTAh4UDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy601&label=Profile%20views&color=0e75b6&style=flat" alt="addy601" /> </p>
 
